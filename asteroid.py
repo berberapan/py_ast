@@ -4,8 +4,6 @@ import constants
 import random
 
 class Asteroid(CircleShape):
-    def test():
-        pass
     def __init__(self, x, y, radius):
         super().__init__(x, y, radius)
 
